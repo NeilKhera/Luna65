@@ -1,0 +1,3 @@
+[submodule "AcheronLibrary"]
+	path = AcheronLibrary
+	url = https://github.com/AcheronProject/AcheronLibrary.git
