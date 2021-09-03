@@ -7,11 +7,11 @@
 #define PRODUCT_ID      0x2048
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    NeilKhera
-#define PRODUCT         Luna50
+#define PRODUCT         Luna65
 
 /* key matrix size */
-#define MATRIX_ROWS 4
-#define MATRIX_COLS 14
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 15
 
 /*
  * Keyboard Matrix Assignments
@@ -23,8 +23,8 @@
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
 */
-#define MATRIX_ROW_PINS {B2, B3, F1, C7}
-#define MATRIX_COL_PINS {F7, F6, F5, F4, D0, D1, D2, D3, D5, D7, B4, B5, B6, C6}
+#define MATRIX_ROW_PINS {F7, F6, F5, F4, F1}
+#define MATRIX_COL_PINS {F0, C7, C6, B2, B3, D1, D2, D3, D5, D4, D6, D7, B4, B5, B6}
 
 /* COL2ROW, ROW2COL*/
 #define DIODE_DIRECTION COL2ROW
