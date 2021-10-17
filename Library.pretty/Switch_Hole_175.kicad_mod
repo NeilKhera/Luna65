@@ -1,0 +1,60 @@
+(footprint "Switch_Hole_175" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 615E7DF4)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -1.27 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8f0b632d-e47d-4b40-b97a-253f6b5fc754)
+  )
+  (fp_text value "Switch_Hole_175" (at 0 1.27 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5f936f64-00a2-4d03-af96-9ff8af191445)
+  )
+  (fp_line (start -16.66875 -9.525) (end -16.66875 9.525) (layer "Dwgs.User") (width 0.1) (tstamp 4a59f253-867a-4f72-8445-a4e87443dbe1))
+  (fp_line (start -16.66875 9.525) (end 16.66875 9.525) (layer "Dwgs.User") (width 0.1) (tstamp 5da6e222-22d8-4ec9-9418-28e36cbbfe30))
+  (fp_line (start -16.66875 -9.525) (end 16.66875 -9.525) (layer "Dwgs.User") (width 0.1) (tstamp 6cf8a2dc-bb9a-40f3-b853-6a5880e88770))
+  (fp_line (start 16.66875 9.525) (end 16.66875 -9.525) (layer "Dwgs.User") (width 0.1) (tstamp f99d115f-bbdf-4520-8399-d69a877a0ebd))
+  (fp_line (start 8.636 -6.9977) (end 8.636 -3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 0020a038-e01d-4592-974c-f31d18f8f874))
+  (fp_line (start -8.636 3.7977) (end -6.9977 3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 0429387f-fbc2-435a-92a9-4d152ce6325f))
+  (fp_line (start -8.636 6.9977) (end -8.636 3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 0b42658b-b0ee-4a63-bdf5-950a8b9ccb3d))
+  (fp_line (start 6.9977 3.7977) (end 6.9977 -3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 267a69d4-557b-44c5-8f78-992d5f29023b))
+  (fp_line (start -8.636 -6.9977) (end -8.636 -3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 2a0070b8-4ed0-4b37-8c70-38b8b90a051b))
+  (fp_line (start 8.636 6.9977) (end 8.636 3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 320fb60d-d4ce-4a07-99fa-6bd57c3143f1))
+  (fp_line (start 8.636 -3.7977) (end 6.9977 -3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp 5d791e59-9f74-4bf1-8801-a8f1cca5c757))
+  (fp_line (start 6.9977 -6.9977) (end 8.636 -6.9977) (layer "Edge.Cuts") (width 0.18) (tstamp 7cb73ea1-0aea-40a2-9e17-511527c9f5cf))
+  (fp_line (start -6.9977 -6.9977) (end -8.636 -6.9977) (layer "Edge.Cuts") (width 0.18) (tstamp 7daea88d-a946-4c2d-ac03-b54cf6181f03))
+  (fp_line (start 6.9977 6.9977) (end 8.636 6.9977) (layer "Edge.Cuts") (width 0.18) (tstamp 8da261bd-b3ce-45fe-b3cf-be966024ec31))
+  (fp_line (start -6.9977 6.9977) (end -8.636 6.9977) (layer "Edge.Cuts") (width 0.18) (tstamp a20463b3-a49a-447c-a3fe-38cf3573b57b))
+  (fp_line (start 8.636 3.7977) (end 6.9977 3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp a7ce066f-33dc-41e8-8a43-56d7e9ccf293))
+  (fp_line (start -6.9977 -6.9977) (end 6.9977 -6.9977) (layer "Edge.Cuts") (width 0.18) (tstamp e33918fc-24c7-4cd3-a4ca-c51c61b280b7))
+  (fp_line (start -6.9977 6.9977) (end 6.9977 6.9977) (layer "Edge.Cuts") (width 0.18) (tstamp ee2d5eac-f98d-4d34-a9af-f0db896a5bc7))
+  (fp_line (start -8.636 -3.7977) (end -6.9977 -3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp eee7a06e-fbd3-4108-9b2d-629fe523ce22))
+  (fp_line (start -6.9977 -3.7977) (end -6.9977 3.7977) (layer "Edge.Cuts") (width 0.18) (tstamp fcd83368-1300-4d88-883e-ca478d11f7f5))
+  (group "" (id c5ddf253-3096-48a4-bdba-b124a91147c8)
+    (members
+      0020a038-e01d-4592-974c-f31d18f8f874
+      0429387f-fbc2-435a-92a9-4d152ce6325f
+      0b42658b-b0ee-4a63-bdf5-950a8b9ccb3d
+      267a69d4-557b-44c5-8f78-992d5f29023b
+      2a0070b8-4ed0-4b37-8c70-38b8b90a051b
+      320fb60d-d4ce-4a07-99fa-6bd57c3143f1
+      5d791e59-9f74-4bf1-8801-a8f1cca5c757
+      7cb73ea1-0aea-40a2-9e17-511527c9f5cf
+      7daea88d-a946-4c2d-ac03-b54cf6181f03
+      8da261bd-b3ce-45fe-b3cf-be966024ec31
+      a20463b3-a49a-447c-a3fe-38cf3573b57b
+      a7ce066f-33dc-41e8-8a43-56d7e9ccf293
+      e33918fc-24c7-4cd3-a4ca-c51c61b280b7
+      ee2d5eac-f98d-4d34-a9af-f0db896a5bc7
+      eee7a06e-fbd3-4108-9b2d-629fe523ce22
+      fcd83368-1300-4d88-883e-ca478d11f7f5
+    )
+  )
+  (group "" (id e29b49c1-920f-484d-ab3f-29481418d5f6)
+    (members
+      4a59f253-867a-4f72-8445-a4e87443dbe1
+      5da6e222-22d8-4ec9-9418-28e36cbbfe30
+      6cf8a2dc-bb9a-40f3-b853-6a5880e88770
+      f99d115f-bbdf-4520-8399-d69a877a0ebd
+    )
+  )
+)
