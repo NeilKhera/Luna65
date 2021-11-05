@@ -3,7 +3,7 @@ F_CPU = 16000000
 ARCH = AVR8
 F_USB = $(F_CPU)
 OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
-BOOTLOADER = atmel-dfu
+BOOTLOADER = caterina
 
 BOOTMAGIC_ENABLE = no       # Virtual DIP switch configuration
 EXTRAKEY_ENABLE = yes       # Audio control and System control
