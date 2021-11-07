@@ -202,4 +202,5 @@
   (lib (name "Triac_Thyristor")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Triac_Thyristor.kicad_sym")(options "")(descr ""))
   (lib (name "Valve")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Valve.kicad_sym")(options "")(descr ""))
   (lib (name "Video")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Video.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit Feather 32u4 Bluefruit LE-eagle-import")(type "KiCad")(uri "C:/Users/Neil/Desktop/Adafruit Feather 32u4 Bluefruit LE/Adafruit Feather 32u4 Bluefruit LE-eagle-import.kicad_sym")(options "")(descr ""))
 )
