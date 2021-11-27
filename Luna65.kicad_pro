@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.7,
-          "height": 5.399999,
-          "width": 5.399999
+          "drill": 0.0,
+          "height": 1.75,
+          "width": 1.425
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -95,7 +95,7 @@
         "tracks_crossing": "error",
         "unconnected_items": "error",
         "unresolved_variable": "error",
-        "via_dangling": "warning",
+        "via_dangling": "ignore",
         "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },

@@ -1,5 +1,4 @@
 (fp_lib_table
-  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
-  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type "KiCad")(uri "C:/Users/Neil/Desktop/Adafruit Feather 32u4 Bluefruit LE/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
-  (lib (name "Luna65")(type "KiCad")(uri "C:/Users/Neil/Desktop/Luna65")(options "")(descr ""))
+  (lib (name "Luna65")(type "KiCad")(uri "${KIPRJMOD}/Other Libraries/Luna65.pretty")(options "")(descr ""))
+  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type "KiCad")(uri "${KIPRJMOD}/Other Libraries/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
 )
