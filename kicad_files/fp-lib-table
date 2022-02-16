@@ -1,4 +1,9 @@
 (fp_lib_table
-  (lib (name "Luna65")(type "KiCad")(uri "${KIPRJMOD}/Other Libraries/Luna65.pretty")(options "")(descr ""))
-  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type "KiCad")(uri "${KIPRJMOD}/Other Libraries/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Graphics.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXH_metalrings")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_MXH_metalrings.pretty")(options "")(descr ""))
+  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type "KiCad")(uri "${KIPRJMOD}/libraries/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
+  (lib (name "Luna65")(type "KiCad")(uri "${KIPRJMOD}/libraries/Luna65.pretty")(options "")(descr ""))
 )

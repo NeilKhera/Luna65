@@ -1,3 +1,21 @@
-[submodule "AcheronLibrary"]
-	path = AcheronLibrary
-	url = https://github.com/AcheronProject/AcheronLibrary.git
+[submodule "kicad_files/libraries/acheron_3D"]
+	path = kicad_files/libraries/acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D.git
+[submodule "kicad_files/libraries/acheron_Components.pretty"]
+	path = kicad_files/libraries/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty.git
+[submodule "kicad_files/libraries/acheron_Connectors.pretty"]
+	path = kicad_files/libraries/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty.git
+[submodule "kicad_files/libraries/acheron_MXH_metalrings.pretty"]
+	path = kicad_files/libraries/acheron_MXH_metalrings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_metalrings.pretty.git
+[submodule "kicad_files/libraries/acheron_Symbols"]
+	path = kicad_files/libraries/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols.git
+[submodule "kicad_files/libraries/acheron_Graphics.pretty"]
+	path = kicad_files/libraries/acheron_Graphics.pretty
+	url = https://github.com/AcheronProject/acheron_Graphics.pretty.git
+[submodule "kicad_files/libraries/acheron_Hardware.pretty"]
+	path = kicad_files/libraries/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty.git
