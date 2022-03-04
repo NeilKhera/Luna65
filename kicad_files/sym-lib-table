@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "acheron_Symbols")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Symbols/acheron_Symbols.kicad_sym")(options "")(descr ""))
   (lib (name "Adafruit Feather 32u4 Bluefruit LE-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/libraries/Adafruit Feather 32u4 Bluefruit LE-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61030PWP")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS61030PWP.kicad_sym")(options "")(descr ""))
 )
