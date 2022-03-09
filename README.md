@@ -12,7 +12,7 @@ Named after my love for space exploration and my participation in Carnegie Mello
 ## Renders
 
 ### USB-C Daughter Board
-Coming Soon
+<img src="https://i.imgur.com/FhxFyNi.jpg" alt="USB-C Daughter Board" width="500"/>
 
 ### Keyboard PCB
 Coming Soon
