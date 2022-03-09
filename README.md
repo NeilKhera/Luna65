@@ -1,5 +1,8 @@
 # Luna65
-Named after my love for space exploration and my participation in Carnegie Mellon University's MoonRanger project, Luna65 is my first PCB project - a 65% keyboard!
+Named for my love for space exploration and my participation in Carnegie Mellon University's MoonRanger project, Luna65 is my first PCB project - a 65% keyboard!
+
+<img src="https://i.imgur.com/kheUoNr.jpeg" alt="PCB Front" width="1000"/>
+<img src="https://i.imgur.com/5iaIYcW.jpeg" alt="PCB Back" width="1000"/>
 
 ## Features
 * 65% Layout
