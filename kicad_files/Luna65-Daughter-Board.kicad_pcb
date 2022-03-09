@@ -1457,6 +1457,11 @@
       (primitives
         (gr_rect (start -0.505 -1.7) (end 0.475 1.7) (width 0.05) (fill yes))
       ) (tstamp a7f33b7c-283c-4890-90eb-f68bb9988735))
+    (model "${KIPRJMOD}/libraries/Coilcraft-XAL4030.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
