@@ -157,7 +157,7 @@
       (net 3 "Net-(D1-Pad1)") (pinfunction "K") (pintype "passive") (tstamp f376e622-cc0e-4dea-9ff9-9108f9cb3442))
     (pad "2" smd roundrect (at 1.4875 0 90) (size 1.425 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1754392982)
       (net 4 "VUSB") (pinfunction "A") (pintype "passive") (tstamp 54e0a8c8-9dec-4ab1-9b9d-3bcb2b94cae3))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -596,7 +596,7 @@
 
   (footprint "Luna65:MOLEX_78171-0005" (layer "F.Cu")
     (tedit 62086A83) (tstamp 4688ff87-8262-46f4-ad96-b5f4e529cfa9)
-    (at 107.5182 72.011752)
+    (at 107.5182 72.011743)
     (property "Sheetfile" "Luna65-Daughter-Board.kicad_sch")
     (property "Sheetname" "")
     (path "/56b9fb33-81a0-4946-9262-e87d3a94b614")
@@ -640,6 +640,11 @@
       (net 1 "GND") (pinfunction "Pin_5") (pintype "passive") (tstamp 983c63fc-d0ee-414d-9b93-84028ccad127))
     (pad "P$6" smd rect locked (at -3.6 1.875) (size 0.75 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 93de166e-c098-4d36-9c23-0b735e0c402f))
     (pad "P$7" smd rect locked (at 3.575 1.875) (size 0.75 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 53e66112-2768-4f87-a3a4-327d4bbba91b))
+    (model "${KIPRJMOD}/libraries/781710005.stp"
+      (offset (xyz 0 0 1.27))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
@@ -889,7 +894,7 @@
       (net 18 "Net-(C5-Pad1)") (pinfunction "K") (pintype "passive") (tstamp 384fd358-e7cb-42ad-8b69-60b6a4c05f34))
     (pad "2" smd roundrect (at 1.65 0 90) (size 1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 5 "CASE") (pinfunction "A") (pintype "passive") (tstamp 773f4a37-ba83-4e69-a1c5-439d64aa2155))
-    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1028,6 +1033,11 @@
       (net 1 "GND") (solder_mask_margin 0.0508) (tstamp 506bec6e-ae81-4e13-83fd-6e6a20e8dd7f))
     (pad "NC2" smd rect (at 3.399993 -1.499997 270) (size 3.400001 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (solder_mask_margin 0.0508) (tstamp 126ec3f6-9a3d-4d89-856f-881b56b9d3e8))
+    (model "${KIPRJMOD}/libraries/S2B-PH-SM4-TB.STEP"
+      (offset (xyz 0 3.175 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -180))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
@@ -1151,7 +1161,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp fd185f6c-b7ac-43ae-826a-4c9f0ff17ac6))
     (pad "2" smd roundrect (at 1.4875 0 90) (size 1.425 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1754392982)
       (net 26 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 862c51f2-7c1d-41e7-83e6-c3717972ff97))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1577,7 +1587,7 @@
       (net 4 "VUSB") (pinfunction "VDD") (pintype "power_in") (tstamp 55162e8e-0191-4bad-aed9-fba1092d9c8c))
     (pad "5" smd roundrect (at 1.1375 -0.95 270) (size 1.325 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 13 "Net-(R4-Pad1)") (pinfunction "PROG") (pintype "input") (tstamp e5532f17-bc42-4d58-89e3-bfabc072032e))
-    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1705,7 +1715,7 @@
       (net 23 "5V") (pinfunction "VOUT") (pintype "output") (tstamp 2fe7b8a8-f68b-470e-9c83-faa6a2af07ef))
     (pad "17" smd rect (at 0 0 180) (size 2.7 2.7) (layers "F.Cu" "F.Mask")
       (net 1 "GND") (pinfunction "GND") (pintype "power_in") (tstamp be86162e-e715-4690-bd69-6ef41c3404d1))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N16_EP2.7x2.7mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N16_EP2.7x2.7mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1850,7 +1860,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 104d1675-69ca-4e8b-bb5e-40650356cf03)
     (pts (xy 90.228149 72.498949) (xy 115.374149 72.498949))
     (height 8.908051)
-    (gr_text "990.0000 mils" (at 102.801149 80.257) (layer "Dwgs.User") (tstamp f9cdd716-8a2c-4b7f-84a3-0856acea8a18)
+    (gr_text "990.0000 mils" (at 102.801149 80.257) (layer "Dwgs.User") (tstamp 104d1675-69ca-4e8b-bb5e-40650356cf03)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -1859,7 +1869,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 78f48a94-b821-4b65-8ec6-dd89469e1860)
     (pts (xy 112.834149 75.038949) (xy 112.834149 49.892949))
     (height 8.450851)
-    (gr_text "990.0000 mils" (at 120.135 62.465949 90) (layer "Dwgs.User") (tstamp f249c2ca-9875-4c92-aeb9-3c4a8a5a3f2a)
+    (gr_text "990.0000 mils" (at 120.135 62.465949 90) (layer "Dwgs.User") (tstamp 78f48a94-b821-4b65-8ec6-dd89469e1860)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
