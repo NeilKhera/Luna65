@@ -4675,7 +4675,7 @@
     (in_bom yes) (on_board yes)
     (uuid af35a153-e4cc-4cb5-9b0a-a247aa9a27b2)
     (property "Reference" "R2" (id 0) (at 52.324 28.702 90))
-    (property "Value" "5.1k" (id 1) (at 52.324 30.734 90)
+    (property "Value" "5.1K" (id 1) (at 52.324 30.734 90)
       (effects (font (size 0.7874 0.7874)))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 52.324 30.734 0)
@@ -5088,7 +5088,7 @@
       (reference "R1") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/af35a153-e4cc-4cb5-9b0a-a247aa9a27b2"
-      (reference "R2") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R2") (unit 1) (value "5.1K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/56dc9d1a-d125-4218-be7e-afbadad9f13c"
       (reference "R3") (unit 1) (value "5.1K") (footprint "Resistor_SMD:R_0805_2012Metric")
