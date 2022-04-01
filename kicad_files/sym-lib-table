@@ -2,4 +2,5 @@
   (lib (name "acheron_Symbols")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Symbols/acheron_Symbols.kicad_sym")(options "")(descr ""))
   (lib (name "Adafruit Feather 32u4 Bluefruit LE-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/libraries/Adafruit Feather 32u4 Bluefruit LE-eagle-import.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61032RSAR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS61032RSAR.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC4095")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4095.kicad_sym")(options "")(descr ""))
 )
