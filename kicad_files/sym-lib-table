@@ -4,4 +4,6 @@
   (lib (name "TPS61032RSAR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS61032RSAR.kicad_sym")(options "")(descr ""))
   (lib (name "LTC4095")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4095.kicad_sym")(options "")(descr ""))
   (lib (name "SK68XX_SIDE")(type "KiCad")(uri "${KIPRJMOD}/libraries/SK68XX_SIDE.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX8903HETI+")(type "KiCad")(uri "${KIPRJMOD}/libraries/MAX8903HETI+.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC4001")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4001.kicad_sym")(options "")(descr ""))
 )

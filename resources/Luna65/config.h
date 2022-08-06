@@ -43,8 +43,8 @@ tyre
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
 */
-#define MATRIX_COL_PINS { D6, D7, B4, B5, B6, C6, C7, F7, F6, F5, F4, F1 }
-#define MATRIX_ROW_PINS { D0, D1, D2, D5, D3, F0 }
+#define MATRIX_COL_PINS { D4, D6, D7, B4, B5, B6, C6, C7, F4, F5, F6, F7 }
+#define MATRIX_ROW_PINS { D1, D2, F1, F0, D3, D5 }
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL, or CUSTOM_MATRIX */
@@ -52,13 +52,13 @@ tyre
 
 #define RGB_DI_PIN B7
 // The number of LEDs connected
-#define DRIVER_LED_TOTAL 68
+#define DRIVER_LED_TOTAL 6
 #define RGB_MATRIX_MAXIMUM_BRIGHTNESS 80
 
-//#define BACKLIGHT_PIN D0
-//#define BACKLIGHT_DRIVER = pwm
-//#define BACKLIGHT_LEVELS 5
-//#define BACKLIGHT_ON_STATE 0
+#define BACKLIGHT_PIN D0
+#define BACKLIGHT_DRIVER = pwm
+#define BACKLIGHT_LEVELS 5
+#define BACKLIGHT_ON_STATE 0
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5
