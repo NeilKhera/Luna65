@@ -1,5 +1,5 @@
 # Luna65
-Named for my love for space exploration and my participation in Carnegie Mellon University's MoonRanger project, Luna65 is my first PCB project - a 65% keyboard!
+Luna65 is my first PCB project - a 65% keyboard!
 
 ## Features
 * 65% Layout
@@ -11,18 +11,10 @@ Named for my love for space exploration and my participation in Carnegie Mellon 
 
 ## Schematics
 
-![Daughter Board Schematic](https://user-images.githubusercontent.com/32021246/161196672-f882e6dd-4c01-4170-bd2d-14b6a5129ab0.png)
-![Main Board Schematic](https://user-images.githubusercontent.com/32021246/161196771-b9d83604-f70e-480c-812f-65376fab62b2.png)
+Coming Soon
 
 ## Renders
 
-### USB-C Daughter Board
-<img src="https://i.imgur.com/FhxFyNi.jpg" alt="USB-C Daughter Board" width="500"/>
-
-### Keyboard PCB
-Coming Soon
-
-### Case
 Coming Soon
 
 ### Disclaimer
