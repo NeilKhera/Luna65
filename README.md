@@ -1,21 +1,5 @@
-# Luna65
+## Luna65
 Luna65 is my first PCB project - a 65% keyboard!
-
-## Features
-* 65% Layout
-* Hotswap switch sockets
-* Bluetooth Connectivity
-* South-facing RGB LEDs
-* USB-C daughter-board to enable gasket-mounted case design
-* QMK Support
-
-## Schematics
-
-Coming Soon
-
-## Renders
-
-Coming Soon
 
 ### Disclaimer
 This is very much a WIP project which means there will be issues and incomplete features - especially on the software side. This is my first hardware project
@@ -26,3 +10,12 @@ keyboards. As such the keys are laid out in an unconventional (and definitely ug
 TL;DR This project is provided as is. You are free to use it however you like but I have no intention to polish it into a complete ready-to-ship product. Functionality
 may be added or removed at any moment and the project will be abandoned whenever I get too bored to carry on.
 (Do, let me know if you actually get some boards made - that'd be sickkkkk!)
+
+### License
+Designed by Neil Khera.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
+
+__
+
+_fin._
