@@ -14,7 +14,7 @@ may be added or removed at any moment and the project will be abandoned whenever
 ### License
 Designed by Neil Khera.
 
-Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
+Creative Commons Attribution/Share-Alike. See license.txt for additional details.
 
 __
 
